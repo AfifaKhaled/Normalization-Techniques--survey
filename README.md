@@ -36,13 +36,13 @@
  Glow: Generative Flow with Invertible 1x1 Convolutions
 
 
- Semantic Image Synthesis with Spatially-Adaptive Normalization
+ ## Semantic Image Synthesis with Spatially-Adaptive Normalization
 
  
- Stable Rank Normalization for Improved Generalization in Neural Networks and GANs
+## Stable Rank Normalization for Improved Generalization in Neural Networks and GANs
 
 
- Is Second-order Information Helpful for Large-scale Visual Recognition?
+## Is Second-order Information Helpful for Large-scale Visual Recognition?
 
 ## LayerScale
  Going deeper with Image Transformers
@@ -53,7 +53,7 @@
  ## Weight Standardization
  Micro-Batch Training with Batch-Channel Normalization and Weight Standardization
 
- Local Contrast Normalization
+##  Local Contrast Normalization
 
  ## Gradient Normalization
  Gradient Normalization for Generative Adversarial Networks
@@ -67,9 +67,9 @@
  ## ReZero
  ReZero is All You Need: Fast Convergence at Large Depth
 	
- Attentive Normalization
+##  Attentive Normalization
  
- Conditional Instance Normalization
+ ## Conditional Instance Normalization
  
  ## Online Normalization
  Online Normalization for Training Neural Networks

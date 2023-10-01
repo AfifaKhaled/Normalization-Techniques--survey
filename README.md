@@ -1,9 +1,9 @@
-# Normalization-Techniques--survey
+# Normalization-Techniques--Survey
 
 
  ##  Layer Normalization
  
- paper  Layer Normalization
+ Layer Normalization
  
  ##  Batch Normalization
  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift

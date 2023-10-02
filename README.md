@@ -6,7 +6,7 @@
  Layer Normalization  (Link for the paper [https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450))
  
  ##  Batch Normalization
- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Link for the paper [[[https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450](https://arxiv.org/abs/1502.03167)))](https://arxiv.org/abs/1502.03167)
+ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Link for the paper (https://arxiv.org/abs/1502.03167)
 
 ## Instance Normalization
  Instance Normalization: The Missing Ingredient for Fast Stylization

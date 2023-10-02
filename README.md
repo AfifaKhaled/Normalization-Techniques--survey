@@ -15,13 +15,13 @@
  ImageNet Classification with Deep Convolutional Neural Networks (Link for the paper https://dl.acm.org/doi/10.1145/3065386)
 
 ## Adaptive Instance Normalization
- Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
-
+ Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (Link for the paper (https://arxiv.org/abs/1703.06868)) 
+ 
 ## Weight Demodulation
- Analyzing and Improving the Image Quality of StyleGAN
+ Analyzing and Improving the Image Quality of StyleGAN (Link for the paper (https://arxiv.org/abs/1912.04958))
 
 ## Spectral Normalization
- Spectral Normalization for Generative Adversarial Networks
+ Spectral Normalization for Generative Adversarial Networks  (Link for the paper (https://arxiv.org/abs/1802.05957))
 
  ## Conditional Batch Normalization
  Modulating early visual processing by language

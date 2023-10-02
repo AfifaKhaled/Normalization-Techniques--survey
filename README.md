@@ -12,7 +12,7 @@
  Instance Normalization: The Missing Ingredient for Fast Stylization  (Link for the paper https://arxiv.org/abs/1607.08022)
 
 ## Local Response Normalization
- ImageNet Classification with Deep Convolutional Neural Networks
+ ImageNet Classification with Deep Convolutional Neural Networks (Link for the paper https://dl.acm.org/doi/10.1145/3065386)
 
 ## Adaptive Instance Normalization
  Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization

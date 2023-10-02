@@ -3,7 +3,7 @@
 
  ##  Layer Normalization
  
- Layer Normalization  (Link for the paper [https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450))
+ Layer Normalization  (Link for the paper ([https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450))
  
  ##  Batch Normalization
  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Link for the paper (https://arxiv.org/abs/1502.03167)
@@ -24,16 +24,17 @@
  Spectral Normalization for Generative Adversarial Networks  (Link for the paper (https://arxiv.org/abs/1802.05957))
 
  ## Conditional Batch Normalization
- Modulating early visual processing by language
+ Modulating early visual processing by language  (Link for the paper ((https://arxiv.org/abs/1707.00683))
+
 
  ## Weight Normalization
- Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks
+ Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks (Link for the paper ((https://arxiv.org/abs/1602.07868))
 
 ## Group Normalization
- Group Normalization
+ Group Normalization  (Link for the paper (https://arxiv.org/abs/1803.08494))
 
  ## Activation Normalization
- Glow: Generative Flow with Invertible 1x1 Convolutions
+ Glow: Generative Flow with Invertible 1x1 Convolutions  (Link for the paper (https://arxiv.org/abs/1807.03039)
 
 
  ## Semantic Image Synthesis with Spatially-Adaptive Normalization

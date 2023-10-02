@@ -46,10 +46,10 @@
 ## Is Second-order Information Helpful for Large-scale Visual Recognition?
 
 ## LayerScale
- Going deeper with Image Transformers
+ Going deeper with Image Transformers (Link for the paper ([https://arxiv.org/abs/1502.03167](https://arxiv.org/pdf/2103.17239.pdf))
 
  ## Switchable Normalization
- Differentiable Learning-to-Normalize via Switchable Normalization
+ Differentiable Learning-to-Normalize via Switchable Normalization (Link for the paper [([https://arxiv.org/abs/1502.03167](https://arxiv.org/pdf/2103.17239.pdf)](https://arxiv.org/abs/1806.10779))
 
  ## Weight Standardization
  Micro-Batch Training with Batch-Channel Normalization and Weight Standardization
@@ -94,22 +94,24 @@
  Instance-Level Meta Normalization
 
 ##  Mixture Normalization
- Training Faster by Separating Modes of Variation in Batch-normalized Models
+ Training Faster by Separating Modes of Variation in Batch-normalized Models Link for the paper ([[[[[https://arxiv.org/abs/2004.02967](https://arxiv.org/abs/2102.11382](https://arxiv.org/abs/1606.03498)](https://link.springer.com/article/10.1007/s11263-019-01269-y)](https://arxiv.org/abs/1810.05466)](https://pubmed.ncbi.nlm.nih.gov/30703010/))
+
 
 ## Mode Normalization
- Mode Normalization
+ Mode Normalization (Link for the paper ([[[[https://arxiv.org/abs/2004.02967](https://arxiv.org/abs/2102.11382](https://arxiv.org/abs/1606.03498)](https://link.springer.com/article/10.1007/s11263-019-01269-y)](https://arxiv.org/abs/1810.05466))
 
 ## Sparse Switchable Normalization
- SSN: Learning Sparse Switchable Normalization via SparsestMax
+ SSN: Learning Sparse Switchable Normalization via SparsestMax (Link for the paper ([[[https://arxiv.org/abs/2004.02967](https://arxiv.org/abs/2102.11382](https://arxiv.org/abs/1606.03498)](https://link.springer.com/article/10.1007/s11263-019-01269-y))
 
 ## Virtual Batch Normalization
- Improved Techniques for Training GANs
+ Improved Techniques for Training GANs (Link for the paper ([[https://arxiv.org/abs/2004.02967](https://arxiv.org/abs/2102.11382](https://arxiv.org/abs/1606.03498))
 
  ## SaBN
- Sandwich Batch Normalization: A Drop-In Replacement for Feature Distribution Heterogeneity
+ Sandwich Batch Normalization: A Drop-In Replacement for Feature Distribution Heterogeneity (Link for the paper ([https://arxiv.org/abs/2004.02967](https://arxiv.org/abs/2102.11382))
 
  ## EvoNorms
- Evolving Normalization-Activation Layers
+ Evolving Normalization-Activation Layers (Link for the paper (https://arxiv.org/abs/2004.02967))
+
 
 
 

@@ -9,7 +9,7 @@
  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift (Link for the paper (https://arxiv.org/abs/1502.03167)
 
 ## Instance Normalization
- Instance Normalization: The Missing Ingredient for Fast Stylization
+ Instance Normalization: The Missing Ingredient for Fast Stylization  (Link for the paper https://arxiv.org/abs/1607.08022)
 
 ## Local Response Normalization
  ImageNet Classification with Deep Convolutional Neural Networks

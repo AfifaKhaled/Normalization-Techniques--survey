@@ -52,46 +52,52 @@
  Differentiable Learning-to-Normalize via Switchable Normalization (Link for the paper [([https://arxiv.org/abs/1502.03167](https://arxiv.org/pdf/2103.17239.pdf)](https://arxiv.org/abs/1806.10779))
 
  ## Weight Standardization
- Micro-Batch Training with Batch-Channel Normalization and Weight Standardization
+ Micro-Batch Training with Batch-Channel Normalization and Weight Standardization (Link for the paper ([[https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450)](https://arxiv.org/abs/1903.10520))
+ 
 
 ##  Local Contrast Normalization
 
  ## Gradient Normalization
- Gradient Normalization for Generative Adversarial Networks
+ Gradient Normalization for Generative Adversarial Networks  (Link for the paper ([[[https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450)](https://arxiv.org/abs/1903.10520)](https://arxiv.org/abs/2109.02235))
 
  ## SyncBN
- Context Encoding for Semantic Segmentation
+ Context Encoding for Semantic Segmentation (Link for the paper [([[[https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450)](https://arxiv.org/abs/1903.10520)](https://arxiv.org/abs/2109.02235))](https://arxiv.org/abs/1803.08904)
 
  ## Decorrelated Batch Normalization
- Decorrelated Batch Normalization
+ Decorrelated Batch Normalization  (Link for the paper [[([[[https://arxiv.org/abs/2306.05745](https://arxiv.org/abs/1607.06450)](https://arxiv.org/abs/1903.10520)](https://arxiv.org/abs/2109.02235))](https://arxiv.org/abs/1803.08904)](https://arxiv.org/abs/1804.08450)
 
  ## ReZero
- ReZero is All You Need: Fast Convergence at Large Depth
+ ReZero is All You Need: Fast Convergence at Large Depth(Link for the paper (https://arxiv.org/abs/2003.04887))
 	
 ##  Attentive Normalization
  
  ## Conditional Instance Normalization
  
  ## Online Normalization
- Online Normalization for Training Neural Networks
+ Online Normalization for Training Neural Networks (Link for the paper ([https://arxiv.org/abs/2003.04887](https://arxiv.org/abs/1905.05894)))
 
  ## RMSNorm
- Root Mean Square Layer Normalization
+ Root Mean Square Layer Normalization  (Link for the paper ([[https://arxiv.org/abs/2003.04887](https://arxiv.org/abs/1905.05894))](https://arxiv.org/abs/1910.07467))
+
 
  ## Cosine Normalization
- Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks
+ Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks  (Link for the paper ([[[https://arxiv.org/abs/2003.04887](https://arxiv.org/abs/1905.05894))](https://arxiv.org/abs/1910.07467))](https://arxiv.org/abs/1702.05870))
+
 
  ## Filter Response Normalization
- Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks
+ Filter Response Normalization Layer: Eliminating Batch Dependence in the Training of Deep Neural Networks (Link for the paper [([[[[https://arxiv.org/abs/2003.04887](https://arxiv.org/abs/1905.05894))](https://arxiv.org/abs/1910.07467))](https://arxiv.org/abs/1702.05870))
+](https://arxiv.org/abs/1911.09737)](https://arxiv.org/abs/1911.09737)
 
  ## InPlace-ABN
- In-Place Activated BatchNorm for Memory-Optimized Training of DNNs
+ In-Place Activate)d BatchNorm for Memory-Optimized Training of DNNs (Link for the paper [[([[[[https://arxiv.org/abs/2003.04887](https://arxiv.org/abs/1905.05894))](https://arxiv.org/abs/1910.07467))](https://arxiv.org/abs/1702.05870))
+](https://arxiv.org/abs/1911.09737)](https://arxiv.org/abs/1911.09737)
+](https://ieeexplore.ieee.org/document/8578689/)
 
  ## BatchChannel Normalization
- Rethinking Normalization and Elimination Singularity in Neural Networks
+ Rethinking Normalization and Elimination Singularity in Neural Networks (Link for the paper https://arxiv.org/abs/1911.09738))
 
  ## Instance-Level Meta Normalization
- Instance-Level Meta Normalization
+ Instance-Level Meta Normalization  (Link for the paper  https://openaccess.thecvf.com/content_CVPR_2019/papers/Jia_Instance-Level_Meta_Normalization_CVPR_2019_paper.pdf)
 
 ##  Mixture Normalization
  Training Faster by Separating Modes of Variation in Batch-normalized Models Link for the paper ([[[[[https://arxiv.org/abs/2004.02967](https://arxiv.org/abs/2102.11382](https://arxiv.org/abs/1606.03498)](https://link.springer.com/article/10.1007/s11263-019-01269-y)](https://arxiv.org/abs/1810.05466)](https://pubmed.ncbi.nlm.nih.gov/30703010/))
